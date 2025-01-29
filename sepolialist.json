@@ -36,7 +36,7 @@
       "symbol": "USDC",
       "name": "USDC",
       "decimals": 18,
-      "tags": ["Stable"]
+      "tags": ["Stable"],
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png"
     },
      {
@@ -45,7 +45,7 @@
       "symbol": "NEIRO",
       "name": "NeiroCTO",
       "decimals": 18,
-      "tags": ["meme"]
+      "tags": ["meme"],
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32521.png"
     }
   ],
