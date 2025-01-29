@@ -1,6 +1,6 @@
 {
-  "name": "Sepolialist",
-  "logoURI": "https://uninu.fun/1.png",
+  "name": "TokenList",
+  "logoURI": "https://mrpopper.netlify.app/logo1.png",
   "keywords": ["Defi", "meme", "stable"],
   
   "timestamp": "2025-01-28T00:00:00+00:00",
@@ -47,7 +47,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 51,
+    "minor": 52,
     "patch": 0
   }
 }
