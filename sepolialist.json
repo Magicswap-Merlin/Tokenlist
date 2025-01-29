@@ -16,12 +16,12 @@
     },
      {
       "chainId": 11155111,
-      "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
-      "symbol": "UNI",
-      "name": "Uniswap",
+      "address": "0x425B342638Fe5248cc2578800575016bAf3E1a51",
+      "symbol": "QUACK",
+      "name": "QUACK",
       "decimals": 18,
       "tags": ["meme"],
-       "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
+       "logoURI": "https://mrpopper.netlify.app/quack.png"
     },
   
     {
