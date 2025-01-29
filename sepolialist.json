@@ -33,20 +33,22 @@
     {
       "chainId": 11155111,
       "address": "0x1c7D4B196Cb0C7B01d743Fbc6116a902379C7238",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png",
       "symbol": "USDC",
       "name": "USDC",
       "decimals": 18,
-      "tags": ["Stable"],
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png"
+      "tags": ["Stable"]
+      
     },
      {
       "chainId": 11155111,
       "address": "0x1c7D4B196Cb0C7B01d743Fbc6116a902379C7239",
+       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32521.png",
       "symbol": "NEIRO",
       "name": "NeiroCTO",
       "decimals": 18,
-      "tags": ["meme"],
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32521.png"
+      "tags": ["meme"]
+      
     }
   ],
   "version": {
