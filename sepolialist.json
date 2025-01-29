@@ -6,11 +6,11 @@
     "defi": {
       "name": "DeFi Tokens",
       "description": "Tokens associated with the products listed at unimemes.com"
-    }
+    },
     "meme": {
       "name": "Meme",
       "description": "Meme tokens"
-    }
+    },
     "stable": {
       "name": "Stable Tokens",
       "description": "Stable tokens"
