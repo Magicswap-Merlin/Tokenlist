@@ -41,7 +41,7 @@
       "symbol": "USDC",
       "name": "USDC",
       "decimals": 18,
-      "tags": ["Stable coin"]
+      "tags": ["Stable"]
     }
   ],
   "version": {
