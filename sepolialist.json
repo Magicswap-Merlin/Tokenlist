@@ -3,24 +3,8 @@
   "logoURI": "https://uninu.fun/1.png",
   "keywords": ["Defi", "meme", "stable"],
   
-  "timestamp": "2024-05-30T00:00:00+00:00",
+  "timestamp": "2025-01-28T00:00:00+00:00",
   "tokens": [
-    {
-      "chainId": 11155111,
-      "address": "0xa1d65E8fB6e87b60FECCBc582F7f97804B725521",
-      "symbol": "DXD",
-      "name": "DXdao",
-      "decimals": 18,
-      "tags": ["defi"]
-    },
-    {
-      "chainId": 11155111,
-      "address": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
-      "symbol": "SNX",
-      "name": "Synthetix",
-      "decimals": 18,
-      "tags": ["defi"]
-    },
      {
       "chainId": 11155111,
       "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
@@ -53,7 +37,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 50,
+    "minor": 51,
     "patch": 0
   }
 }
