@@ -1,0 +1,52 @@
+{
+  "name": "Sepolialist",
+  "logoURI": "https://uninu.fun/1.png",
+  "keywords": ["Defi", "defiprime", "curated"],
+  "tags": {
+    "defi": {
+      "name": "Default Tokens",
+      "description": "Tokens associated with the products listed at unimemes.com"
+    }
+  },
+  "timestamp": "2024-05-30T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 11155111,
+      "address": "0xa1d65E8fB6e87b60FECCBc582F7f97804B725521",
+      "symbol": "DXD",
+      "name": "DXdao",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 11155111,
+      "address": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
+      "symbol": "SNX",
+      "name": "Synthetix",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+     {
+      "chainId": 11155111,
+      "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+      "symbol": "UNI",
+      "name": "Uniswap",
+      "decimals": 18,
+      "tags": ["meme"]
+    }
+  
+    {
+      "chainId": 11155111,
+      "address": "0x1c7D4B196Cb0C7B01d743Fbc6116a902379C7238",
+      "symbol": "USDC",
+      "name": "USDC",
+      "decimals": 18,
+      "tags": ["Stable coin"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 49,
+    "patch": 0
+  }
+}
