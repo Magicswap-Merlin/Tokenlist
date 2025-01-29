@@ -5,7 +5,7 @@
   "tags": {
     "defi": {
       "name": "Default Tokens",
-      "description": "Tokens associated with the products listed at defiprime.com"
+      "description": "Tokens associated with the products listed at unimemes.com"
     }
   },
   "timestamp": "2024-05-30T00:00:00+00:00",
@@ -35,9 +35,17 @@
       "tags": ["meme"]
     }
   ],
+    {
+      "chainId": 11155111,
+      "address": "0x1c7D4B196Cb0C7B01d743Fbc6116a902379C7238",
+      "symbol": "USDC",
+      "name": "USDC",
+      "decimals": 18,
+      "tags": ["Stable coin"]
+    }
   "version": {
     "major": 1,
-    "minor": 47,
+    "minor": 49,
     "patch": 0
   }
 }
