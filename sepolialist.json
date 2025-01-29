@@ -2,20 +2,7 @@
   "name": "Sepolialist",
   "logoURI": "https://uninu.fun/1.png",
   "keywords": ["Defi", "meme", "stable"],
-  "tags": {
-    "defi": {
-      "name": "DeFi Tokens",
-      "description": "Tokens associated with the products listed at unimemes.com"
-    },
-    "meme": {
-      "name": "Meme",
-      "description": "Meme tokens"
-    },
-    "stable": {
-      "name": "Stable Tokens",
-      "description": "Stable tokens"
-    }
-  },
+  
   "timestamp": "2024-05-30T00:00:00+00:00",
   "tokens": [
     {
