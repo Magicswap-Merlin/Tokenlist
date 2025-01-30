@@ -33,6 +33,35 @@
       "tags": ["Stable"],
        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png"
       
+    },
+    {
+      "chainId": 11155111,
+      "address": "0xfFf9976782d46CC05630D1f6eBAb18b2324d6B14",
+      "symbol": "WETH",
+      "name": "Wrapped Ether",
+      "decimals": 18,
+      "tags": ["Defi"],
+       "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
+    },
+     {
+      "chainId": 11155111,
+      "address": "0x425B342638Fe5248cc2578800575016bAf3E1a51",
+      "symbol": "QUACK",
+      "name": "QUACK",
+      "decimals": 18,
+      "tags": ["meme"],
+       "logoURI": "https://mrpopper.netlify.app/quack.png"
+    },
+  
+    {
+      "chainId": 11155111,
+      "address": "0x1c7D4B196Cb0C7B01d743Fbc6116a902379C7238",
+      "symbol": "USDC",
+      "name": "USDC",
+      "decimals": 18,
+      "tags": ["Stable"],
+       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png"
+      
     }
      
   ],
