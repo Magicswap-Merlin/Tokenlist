@@ -7,22 +7,14 @@
   "tokens": [
      {
       "chainId": 1301,
-      "address": "0xfFf9976782d46CC05630D1f6eBAb18b2324d6B14",
+      "address": "0x4200000000000000000000000000000000000006",
       "symbol": "WETH",
       "name": "Wrapped Ether",
       "decimals": 18,
       "tags": ["Defi"],
        "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
     },
-     {
-      "chainId": 1301,
-      "address": "0x425B342638Fe5248cc2578800575016bAf3E1a51",
-      "symbol": "QUACK",
-      "name": "QUACK",
-      "decimals": 18,
-      "tags": ["meme"],
-       "logoURI": "https://mrpopper.netlify.app/quack.png"
-    },
+     
   
     {
       "chainId": 1301,
@@ -62,12 +54,21 @@
       "tags": ["Stable"],
        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png"
       
-    }
+    },
+    {
+      "chainId": 130,
+      "address": "0x4200000000000000000000000000000000000006",
+      "symbol": "WETH",
+      "name": "Wrapped Ether",
+      "decimals": 18,
+      "tags": ["Defi"],
+       "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
+    },
      
   ],
   "version": {
     "major": 1,
-    "minor": 54,
+    "minor": 55,
     "patch": 0
   }
 }
