@@ -64,6 +64,15 @@
       "tags": ["Defi"],
        "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
     },
+    {
+      "chainId": 130,
+      "address": "0xc7436169cfC6eBC03E71DD18c50a43321e87B6C8",
+      "symbol": "UCat",
+      "name": "UniCat",
+      "decimals": 18,
+      "tags": ["meme"],
+       "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/unicat.jpg"
+    }
      
   ],
   "version": {
